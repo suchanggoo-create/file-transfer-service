@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Runtime storage & uploads
+data/
+
+# OS / editor
+.DS_Store
+
+# Local test artifacts
+*.tar
